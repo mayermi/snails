@@ -28,7 +28,7 @@ We needed at least six different numbers for six different snails. Since Gray co
 
 Then we fashioned the wheel with copper tape making sure the copper was in contact with the screw in the middle by using steel wool. At one point we needed to build a little ‘bridge’ so that all tape was in contact, but the link was not detected by just applying some non-conducting tape over it. In the end we linked the screw to the ‘ground’ of the Arduino and used three copper wires connected to three pins as ‘reader’ of the tracks.
 
-You can see the pattern we used to laser-cut the wheel in the PDF file of this download folder.
+You can see the pattern we used to laser-cut the wheel in [Graycode.pdf](Graycode.pdf).
 
 ## H-Bridge
 
